@@ -4,7 +4,7 @@ My name is Martin Heinz and I'm a Frontend Developer/Mobile Developer. I'm from 
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@ihsan.inh) and [Blog](https://www.ihsantutorial.com/).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [ihsantutorial.com](https://www.ihsantutorial.com/) as well as on [Medium](https://medium.com/@ihsan.inh).
 
 
 ## &#x1f4c8; GitHub Stats
