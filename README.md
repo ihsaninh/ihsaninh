@@ -1,6 +1,6 @@
 # Hi, there 👋
 
-My name is Martin Heinz and I'm a Frontend Developer/Mobile Developer. I'm from Indonesia, living in Bogor and currently working at PT Meteor Inovasi Digital and placed to work at Axiata Digital Services Indonesia.
+My name is Ihsan Nurul Habib and I'm a Frontend Developer/Mobile Developer. I'm from Indonesia, living in Bogor and currently working at PT Meteor Inovasi Digital and placed to work at Axiata Digital Services Indonesia.
 
 ## &#x270d; Blog & Writing
 
