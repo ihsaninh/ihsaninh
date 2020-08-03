@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi, there 👋
 
-<!--
-**ihsaninh/ihsaninh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Martin Heinz and I'm a Frontend Developer/Mobile Developer. I'm from Indonesia, living in Bogor and currently working at PT Meteor Inovasi Digital and placed to work at Axiata Digital Services Indonesia.
 
-Here are some ideas to get you started:
+## &#x270d; Blog & Writing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@ihsan.inh) and [Blog](https://www.ihsantutorial.com/).
+
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/ihsaninh/ihsaninh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsaninh&hide=css,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/ihsaninh/ihsaninh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ihsaninh&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ihsan's GitHub Stats" />
+</a>
+
