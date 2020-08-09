@@ -1,6 +1,6 @@
 # Hi, there 👋
 
-My name is Ihsan Nurul Habib and I'm a Frontend Developer/Mobile Developer. I'm from Indonesia, living in Bogor and currently working at PT Meteor Inovasi Digital and placed to work at Axiata Digital Services Indonesia. I work with few new technology, like React, React Native, Flutter, and Vue, also PHP with Laravel.
+My name is Ihsan Nurul Habib. I'm a Frontend Developer and also a Mobile Developer. I'm from Indonesia, living in Bogor and currently working at PT Meteor Inovasi Digital and placed to work at Axiata Digital Services Indonesia to develop mobile application using React Native. I work with few technology, like React, React Native, Flutter, Vue, and also PHP with Laravel.
 
 ## &#x270d; Blog & Writing
 
