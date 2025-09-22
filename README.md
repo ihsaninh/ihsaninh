@@ -4,7 +4,7 @@ My name is Ihsan Nurul Habib. I'm a Frontend Developer and also a Mobile Develop
 
 ### &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website on [Medium](https://medium.com/@ihsan.inh).
+Apart from coding, I also maintain a blog - you can find my articles on my website on [Blog](https://ihsaninh.com/blog).
 
 ### Find me on social media and my Portfolio
 * [Facebook](https://facebook.com/ihsan.n.habib/)
