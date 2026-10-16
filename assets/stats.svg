@@ -1,0 +1,17 @@
+<svg width="560" height="290" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="558" height="288" rx="10" fill="#0D1117" stroke="#30363D"/>
+  <text x="36" y="52" font-family="'Segoe UI', Arial, sans-serif" font-size="21" font-weight="700" fill="#D4AF37">GitHub Stats</text>
+  <rect x="36" y="66" width="488" height="1" fill="#30363D"/>
+  <text x="36" y="108" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#8B949E">Total Stars Earned</text>
+  <text x="36" y="138" font-family="'Segoe UI', Arial, sans-serif" font-size="27" font-weight="700" fill="#FFFFFF">168</text>
+  <text x="216" y="108" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#8B949E">Total Forks</text>
+  <text x="216" y="138" font-family="'Segoe UI', Arial, sans-serif" font-size="27" font-weight="700" fill="#FFFFFF">86</text>
+  <text x="396" y="108" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#8B949E">Public Repositories</text>
+  <text x="396" y="138" font-family="'Segoe UI', Arial, sans-serif" font-size="27" font-weight="700" fill="#FFFFFF">107</text>
+  <text x="36" y="208" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#8B949E">Followers</text>
+  <text x="36" y="238" font-family="'Segoe UI', Arial, sans-serif" font-size="27" font-weight="700" fill="#FFFFFF">60</text>
+  <text x="216" y="208" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#8B949E">Following</text>
+  <text x="216" y="238" font-family="'Segoe UI', Arial, sans-serif" font-size="27" font-weight="700" fill="#FFFFFF">23</text>
+  <text x="396" y="208" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#8B949E">On GitHub Since</text>
+  <text x="396" y="238" font-family="'Segoe UI', Arial, sans-serif" font-size="27" font-weight="700" fill="#FFFFFF">2016</text>
+</svg>
