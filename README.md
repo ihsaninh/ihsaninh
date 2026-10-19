@@ -6,10 +6,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ihsaninh&label=Profile%20views&color=d4af37&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ## About Me
